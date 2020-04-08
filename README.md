@@ -2,7 +2,7 @@
 
 ```bash
     # Clone or download this repo
-    git clone this_repos_link
+    git clone https://github.com/itailv/sphinx-rtd-example.git
     cd investlib
     
     # Install requirements
