@@ -1,0 +1,2 @@
+import your_package_name
+print(your_package_name.some_documented_func(1))

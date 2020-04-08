@@ -1,0 +1,7 @@
+.idea/
+docs/build
+docs/_static
+docs/_templates
+
+__pycache__/
+.DS_Store
