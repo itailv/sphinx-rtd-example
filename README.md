@@ -3,7 +3,7 @@
 ```bash
     # Clone or download this repo
     git clone https://github.com/itailv/sphinx-rtd-example.git
-    cd investlib
+    cd sphinx-rtd-example
     
     # Install requirements
     pip install -r requirements
